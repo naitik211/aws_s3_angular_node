@@ -1,5 +1,6 @@
 'use strict';
-var app = angular.module('awsApp', []);
+angular.module('awsApp', [])
 
-app.controller('AwsAppCtrl', ['$scope', 'angularFileUpload', function ($scope, angularFileUpload) {
+.controller('AwsAppCtrl', ['$scope', 'angularFileUpload', function ($scope, angularFileUpload) {
 }]);
+
