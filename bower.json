@@ -1,0 +1,9 @@
+{
+  "name": "AWS S3",
+  "version": "0.0.1",
+  "description": "AWS S3 file upload using AngularJs and NodeJs",
+  "dependencies": {
+    "angular": "*",
+    "ng-file-upload": "3.2.4"
+  }
+}
