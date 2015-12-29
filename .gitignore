@@ -34,7 +34,6 @@ public/dist/
 # =====================
 .project
 .settings/
-.*.md.html
 .metadata
 *~.nib
 local.properties
