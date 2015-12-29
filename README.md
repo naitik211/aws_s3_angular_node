@@ -1,2 +1,6 @@
 # aws_s3_angular_node
-Image / file get, put and post using pure angular and node
+
+Images or file upload on AWS S3 using AngularJs and NodeJs
+
+I have created one angular side directive, so it will be useful for feature use. 
+
